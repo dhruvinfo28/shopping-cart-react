@@ -1,0 +1,12 @@
+.navbar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #f29191;
+    padding: 1rem;
+}
+
+.navbar h1{
+    color:#d1d9d9;
+    font-size: 2rem;;
+}

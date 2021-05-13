@@ -1,0 +1,40 @@
+.items{
+    margin-top:5rem;
+    width: 35vw;
+    margin:5rem auto;
+
+}
+
+.total{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.total p{
+    color:#da7f8f;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.clear-all{
+    text-align: center;
+   /* margin-bottom: 3rem; */
+}
+.clear-all button{
+    background-color: #94d0cc;
+    border:none;
+    outline: none;
+    font-size: 1.25rem;
+    padding: 0.65rem;
+    color:#da7f8f;
+    font-weight: bold;
+}
+.clear-all button:hover{
+    cursor: pointer;
+    background-color: #da7f8f;
+    color:#94d0cc;
+}
+
+hr{
+    margin:1rem;
+}
